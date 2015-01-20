@@ -44,5 +44,7 @@ group :development, :test do
 
   # Testing framework to write specs for javascript
   gem 'jasmine'
+
+  gem 'jslint_on_rails'
 end
 
