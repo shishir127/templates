@@ -1,5 +1,5 @@
-describe("CreditCard", function() {  
-  it("cleans the number by removing spaces and dashes", function() {  
-    expect(CreditCard.cleanNumber("123 4-5")).toEqual("12345");  
+describe("Dummy", function() {  
+  it("ouputs hello world", function() {  
+    expect(Dummy.output()).toEqual("Hello world!");  
   });  
 });

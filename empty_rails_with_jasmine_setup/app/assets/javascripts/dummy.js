@@ -1,5 +1,5 @@
 var Dummy = {
-  salutation: function(){
-    return "Hello world";
+  output: function(){
+    return "Hello world!";
   }
 }
